@@ -1,4 +1,3 @@
-🚀 Featured Projects
 🩺 Eye Disease Prediction
 CNN-based multi-class ocular disease classifier built with PyTorch & Scikit-learn
 
